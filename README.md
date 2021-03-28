@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eldhomv
 - 👀 I’m interested in ...nthng
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...nthng
 
 
 <!---
